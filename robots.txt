@@ -10,3 +10,19 @@ Sitemap: https://anyrxo.com/sitemap.xml
 
 # Host
 Host: https://anyrxo.com
+
+# Honeypots - These are traps for malicious bots
+# Accessing these will be logged and may result in legal action
+Disallow: /admin.php
+Disallow: /wp-config.php
+Disallow: /phpinfo.php
+Disallow: /.env
+Disallow: /.env.example
+Disallow: /config.json
+Disallow: /.git-credentials
+Disallow: /wp-admin/
+Disallow: /administrator/
+Disallow: /phpmyadmin/
+Disallow: /backup/
+Disallow: /db-backup/
+Disallow: /database/
