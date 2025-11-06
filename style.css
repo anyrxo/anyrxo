@@ -123,6 +123,12 @@ body {
     font-size: 16px;
 }
 
+.social-icon-img {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+
 /* Links Section */
 .links {
     display: flex;
@@ -288,7 +294,6 @@ body {
 
     .link-content p {
         font-size: 12px;
-        display: none;
     }
 
     .link-arrow {
