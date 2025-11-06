@@ -36,6 +36,29 @@ body {
     display: block;
 }
 
+.share-btn {
+    display: none;
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 40px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: var(--text-primary);
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+.share-btn:hover {
+    background: rgba(0, 0, 0, 0.8);
+    transform: scale(1.05);
+}
+
 .container {
     max-width: 640px;
     margin: 0 auto;
@@ -255,6 +278,12 @@ body {
 @media (max-width: 768px) {
     .banner {
         height: 120px;
+    }
+
+    .share-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .container {
