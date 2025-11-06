@@ -99,17 +99,12 @@ body {
     gap: 6px;
 }
 
-.verified {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 20px;
-    height: 20px;
-    background: #d4a574;
-    color: var(--bg-primary);
-    border-radius: 50%;
-    font-size: 12px;
-    font-weight: 700;
+.verified-badge {
+    width: 18px;
+    height: 18px;
+    margin-left: 2px;
+    vertical-align: middle;
+    display: inline-block;
 }
 
 .tagline {
