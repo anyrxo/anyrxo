@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
+Disallow:
 
+# Crawl delay
+Crawl-delay: 0
+
+# Sitemaps
 Sitemap: https://anyrxo.com/sitemap.xml
+
+# Host
+Host: https://anyrxo.com
