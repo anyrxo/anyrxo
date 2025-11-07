@@ -326,10 +326,6 @@ body {
     background: #1DB954;
 }
 
-.link-icon.newsletter-icon {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-}
-
 .link-icon i {
     font-size: 24px;
 }
@@ -409,6 +405,19 @@ body {
 
 .link-card:hover .link-btn {
     color: var(--bg-primary);
+}
+
+/* Newsletter Section */
+.newsletter {
+    margin-top: 40px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.newsletter iframe {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 /* Footer */
