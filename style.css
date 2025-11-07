@@ -407,6 +407,19 @@ body {
     color: var(--bg-primary);
 }
 
+/* Newsletter Section */
+.newsletter {
+    margin-top: 40px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.newsletter iframe {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
 /* Footer */
 .footer {
     margin-top: 40px;
