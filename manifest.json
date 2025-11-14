@@ -1,0 +1,72 @@
+{
+  "name": "Anyro - AI Automation Expert & Entrepreneur",
+  "short_name": "Anyro",
+  "description": "Official portfolio of Anyro (@anyrxo) - AI automation expert and founder of IImagined, Seology, 1ABEL, Futures Hive, and SirenCY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logos/anyrxo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logos/anyrxo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "education", "productivity"],
+  "screenshots": [
+    {
+      "src": "logos/Banner.png",
+      "sizes": "1200x630",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Seology",
+      "short_name": "Seology",
+      "description": "AI-powered SEO platform",
+      "url": "https://seology.ai",
+      "icons": [
+        {
+          "src": "logos/seology.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "IImagined",
+      "short_name": "IImagined",
+      "description": "AI education platform",
+      "url": "https://iimagined.ai",
+      "icons": [
+        {
+          "src": "logos/IImagined.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "1ABEL",
+      "short_name": "1ABEL",
+      "description": "Premium clothing brand",
+      "url": "https://1abel.com",
+      "icons": [
+        {
+          "src": "logos/1abel.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

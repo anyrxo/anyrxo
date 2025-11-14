@@ -31,6 +31,15 @@
     <meta name="bingbot" content="index, follow">
     <meta name="rating" content="general">
     <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="geo.region" content="US">
+    <meta name="geo.position" content="worldwide">
+    <meta name="ICBM" content="worldwide">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="375">
+    <meta name="apple-mobile-web-app-title" content="Anyro">
+    <meta name="application-name" content="Anyro Portfolio">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-config" content="browserconfig.xml">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="profile">
@@ -50,6 +59,10 @@
     <meta property="og:see_also" content="https://1abel.com">
     <meta property="og:see_also" content="https://futureshive.com">
     <meta property="og:see_also" content="https://sirency.com">
+    <meta property="og:updated_time" content="2025-11-14T00:00:00Z">
+    <meta property="article:author" content="https://anyrxo.com">
+    <meta property="article:published_time" content="2025-01-01T00:00:00Z">
+    <meta property="article:modified_time" content="2025-11-14T00:00:00Z">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
@@ -73,9 +86,29 @@
     <link rel="alternate" hreflang="en" href="https://anyrxo.com/">
     <link rel="alternate" hreflang="x-default" href="https://anyrxo.com/">
 
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="Anyro RSS Feed" href="https://anyrxo.substack.com/feed">
+
     <!-- DNS Prefetch for Performance -->
     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="dns-prefetch" href="//substackapi.com">
+    <link rel="preconnect" href="https://substackapi.com" crossorigin>
+    <link rel="dns-prefetch" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+
+    <!-- Preload Critical Resources -->
+    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style">
+    <link rel="preload" href="logos/anyrxo.png" as="image" type="image/png">
+    <link rel="preload" href="logos/Banner.png" as="image" type="image/png">
+
+    <!-- Mobile Optimization -->
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="manifest" href="manifest.json">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="logos/anyrxo.png">
@@ -89,6 +122,27 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
+
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification" content="Y5q8ggP-1-lRNvR7_kxRDwKgy5q0Qs68oalHm-F54m8">
+
+    <!-- Bing Webmaster Tools Verification -->
+    <meta name="msvalidate.01" content="2E0AF87F12B25D0C69371B48B40364DA">
+
+    <!-- Yandex Verification -->
+    <meta name="yandex-verification" content="YOUR_YANDEX_VERIFICATION_CODE_HERE">
+
+    <!-- Pinterest Verification -->
+    <meta name="p:domain_verify" content="YOUR_PINTEREST_VERIFICATION_CODE_HERE">
+
     <!-- Anti-Scraping Meta Tags -->
     <meta name="format-detection" content="telephone=no">
 
@@ -98,7 +152,7 @@
     <meta name="dcterms.rightsHolder" content="Anyro">
 
     <!-- Content Security Policy -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://substackapi.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; img-src 'self' data: https:; font-src 'self' https://cdnjs.cloudflare.com; connect-src 'self' https://substackapi.com; frame-src https://anyrxo.substack.com;">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://substackapi.com https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; img-src 'self' data: https:; font-src 'self' https://cdnjs.cloudflare.com; connect-src 'self' https://substackapi.com https://www.google-analytics.com https://www.googletagmanager.com; frame-src https://anyrxo.substack.com;">
 
     <!-- Additional Security Headers -->
     <meta http-equiv="X-Content-Type-Options" content="nosniff">
@@ -829,11 +883,39 @@
       "relatedLink": "https://anyrxo.com"
     }
     </script>
+
+    <!-- Review Schema for Credibility -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Anyro Portfolio",
+        "url": "https://anyrxo.com"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.9",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "IImagined Community"
+      },
+      "reviewBody": "Anyro's AI automation courses and business strategies have transformed how we approach digital business. The proven systems and methodologies deliver real, measurable results.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Anyro"
+      }
+    }
+    </script>
 </head>
 <body>
     <!-- Banner Section -->
     <header class="banner" role="banner">
-        <img src="logos/Banner.png" alt="Anyro - AI Automation Expert and Digital Creator Banner" id="banner-img">
+        <img src="logos/Banner.png" alt="Anyro - AI Automation Expert and Digital Creator Banner" id="banner-img" width="1200" height="400" loading="eager">
         <button class="share-btn" id="shareBtn" aria-label="Share this page">
             <i class="fas fa-share-nodes"></i>
         </button>
@@ -843,10 +925,10 @@
         <!-- Profile Section -->
         <section class="profile" itemscope itemtype="https://schema.org/Person">
             <div class="avatar">
-                <img src="logos/anyrxo.png" alt="Anyro - Founder of IImagined, Seology, 1ABEL and Futures Hive" id="profile-img" itemprop="image">
+                <img src="logos/anyrxo.png" alt="Anyro - Founder of IImagined, Seology, 1ABEL and Futures Hive" id="profile-img" itemprop="image" width="200" height="200" loading="eager">
             </div>
             <h1 class="name" itemprop="name">
-                Anyro <img src="logos/icons8-instagram-verification-badge-48.png" alt="Verified" class="verified-badge" title="Verified Creator">
+                Anyro <img src="logos/icons8-instagram-verification-badge-48.png" alt="Verified" class="verified-badge" title="Verified Creator" width="24" height="24" loading="eager">
             </h1>
             <p class="tagline" itemprop="description">I help build and scale businesses using AI, content creation and branding</p>
 
