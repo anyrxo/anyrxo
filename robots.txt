@@ -1,8 +1,25 @@
 User-agent: *
 Allow: /
+Allow: /logos/
+Allow: /index.html
 Disallow:
 
 # Crawl delay
+Crawl-delay: 0
+
+# Google Bot specific rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Google Image Bot
+User-agent: Googlebot-Image
+Allow: /logos/
+Allow: /
+
+# Bing Bot specific rules
+User-agent: Bingbot
+Allow: /
 Crawl-delay: 0
 
 # Sitemaps

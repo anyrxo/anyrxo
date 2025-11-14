@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://anyrxo.com/</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+
+    <!-- Main Profile Image -->
     <image:image>
       <image:loc>https://anyrxo.com/logos/anyrxo.png</image:loc>
-      <image:title>Anyro - AI Automation Expert</image:title>
-      <image:caption>Anyro, founder of IImagined, Seology.ai, 1ABEL, Futures Hive, and SirenCY</image:caption>
+      <image:title>Anyro (anyrxo) - AI Automation Expert and Serial Entrepreneur</image:title>
+      <image:caption>Anyro (anyrxo), founder of IImagined, Seology.ai, 1ABEL, Futures Hive, and SirenCY. AI automation expert with 4,000+ students.</image:caption>
     </image:image>
+
+    <!-- Banner Image -->
     <image:image>
       <image:loc>https://anyrxo.com/logos/Banner.png</image:loc>
-      <image:title>Anyro Banner</image:title>
+      <image:title>Anyro Banner - AI Automation Expert Portfolio</image:title>
+      <image:caption>Official portfolio banner of Anyro (anyrxo) featuring AI automation and digital business expertise</image:caption>
     </image:image>
+
+    <!-- Seology Logo -->
+    <image:image>
+      <image:loc>https://anyrxo.com/logos/seology.png</image:loc>
+      <image:title>Seology - AI-Powered SEO Platform by Anyro</image:title>
+      <image:caption>Seology logo - AI-powered SEO automation platform founded by Anyro (anyrxo) delivering 385% average traffic increase</image:caption>
+    </image:image>
+
+    <!-- IImagined Logo -->
+    <image:image>
+      <image:loc>https://anyrxo.com/logos/IImagined.png</image:loc>
+      <image:title>IImagined - AI Education Platform by Anyro</image:title>
+      <image:caption>IImagined logo - AI education platform by Anyro (anyrxo) teaching automation to 4,000+ students</image:caption>
+    </image:image>
+
+    <!-- 1ABEL Logo -->
+    <image:image>
+      <image:loc>https://anyrxo.com/logos/1abel.png</image:loc>
+      <image:title>1ABEL - Premium Clothing Brand by Anyro</image:title>
+      <image:caption>1ABEL logo - Premium minimalist clothing brand founded by Anyro (anyrxo) where sound becomes style</image:caption>
+    </image:image>
+
+    <!-- SirenCY Logo -->
+    <image:image>
+      <image:loc>https://anyrxo.com/logos/Sirency.png</image:loc>
+      <image:title>SirenCY - Creator Management Platform by Anyro</image:title>
+      <image:caption>SirenCY logo - Elite creator management and monetization platform by Anyro (anyrxo)</image:caption>
+    </image:image>
+
+    <!-- Futures Hive Logo -->
+    <image:image>
+      <image:loc>https://anyrxo.com/logos/futureshive.png</image:loc>
+      <image:title>Futures Hive - Trading Education by Anyro</image:title>
+      <image:caption>Futures Hive logo - Futures trading education platform by Anyro (anyrxo) with 291+ days of proven results</image:caption>
+    </image:image>
+
   </url>
 </urlset>
