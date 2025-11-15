@@ -1,0 +1,227 @@
+===== COPY THIS TO COMET AI BROWSER =====
+
+MISSION: Build 50 backlinks in 24 hours for [WEBSITE-URL]
+
+WEBSITE: [Enter your website URL here]
+BUSINESS: [Enter business name]
+DESCRIPTION: [One sentence about what you do]
+
+---
+
+EXECUTE THESE 3 PHASES:
+
+PHASE 1: TOP 10 HIGHEST ROI (DO FIRST - 2.5 HOURS)
+
+1. Google Sites (https://sites.google.com/)
+   - Create new site
+   - Add page about [BUSINESS]
+   - Add link to [WEBSITE-URL]
+   - Publish publicly
+   REPORT: Site URL
+
+2. LinkedIn (https://www.linkedin.com/)
+   - Create/optimize profile
+   - Add [WEBSITE-URL] to website field
+   - Add to "Featured" section
+   REPORT: Profile URL
+
+3. Medium (https://medium.com/)
+   - Create account
+   - Write 500-word article about [BUSINESS]
+   - Add 3 links to [WEBSITE-URL]
+   - Publish with tags
+   REPORT: Article URL
+
+4. GitHub (https://github.com/)
+   - Create profile
+   - Add [WEBSITE-URL] to bio
+   - Add to website field
+   REPORT: Profile URL (github.com/username)
+
+5. WordPress.com (https://wordpress.com/)
+   - Create free blog
+   - Write 1 post with link to [WEBSITE-URL]
+   - Publish publicly
+   REPORT: Blog URL (username.wordpress.com)
+
+6. Quora (https://www.quora.com/)
+   - Create profile
+   - Add [WEBSITE-URL] to bio & credentials
+   - Answer 1 relevant question with helpful info
+   REPORT: Profile URL
+
+7. Notion.so (https://www.notion.so/)
+   - Create public page
+   - Add info about [BUSINESS]
+   - Include link to [WEBSITE-URL]
+   - Share publicly
+   REPORT: Page URL
+
+8. Crunchbase (https://www.crunchbase.com/)
+   - Create company profile
+   - Add all business info
+   - Add [WEBSITE-URL]
+   REPORT: Company URL
+
+9. Blogger (https://www.blogger.com/)
+   - Create free blog
+   - Write 1 post with link
+   - Publish
+   REPORT: Blog URL (username.blogspot.com)
+
+10. Archive.org (https://web.archive.org/)
+    - Go to "Save Page Now"
+    - Enter [WEBSITE-URL]
+    - Save snapshot
+    REPORT: Archived URL
+
+EXPECTED: 10 backlinks, Average DA 94
+
+---
+
+PHASE 2: QUICK PROFILES (DO NEXT - 2 HOURS)
+
+11. Reddit (https://www.reddit.com/) - Add site to u/username bio
+12. Pinterest (https://www.pinterest.com/) - Business profile
+13. Tumblr (https://www.tumblr.com/) - Blog with link
+14. Product Hunt (https://www.producthunt.com/) - Maker profile
+15. Indie Hackers (https://www.indiehackers.com/) - Profile + intro post
+16. About.me (https://about.me/) - Personal page
+17. Linktree (https://linktr.ee/) - Link aggregator page
+18. Substack (https://substack.com/) - Newsletter with 1 post
+19. Carrd.co (https://carrd.co/) - Single page site
+20. Beacons.ai (https://beacons.ai/) - Creator page
+
+For each: Create profile, add [WEBSITE-URL], complete 100%
+
+EXPECTED: 10 more backlinks (Total: 20)
+
+---
+
+PHASE 3: FASTEST SUBMISSIONS (DO LAST - 1 HOUR)
+
+21. Telegra.ph (https://telegra.ph/) - NO ACCOUNT! Just create & publish
+22. Mix.com (https://mix.com/) - Bookmark site
+23. Diigo (https://www.diigo.com/) - Bookmark with description
+24. Flipboard (https://flipboard.com/) - Create magazine, add content
+25. Scoop.it (https://www.scoop.it/) - Curate topic
+26. Pocket (https://getpocket.com/) - Save articles
+27. Gravatar (https://gravatar.com/) - Universal profile
+28. Behance (https://www.behance.net/) - Creative profile
+29. Slideshare (https://www.slideshare.net/) - Upload 1 presentation
+30. Issuu (https://issuu.com/) - Upload 1 PDF
+
+For each: Submit/bookmark [WEBSITE-URL] with description
+
+EXPECTED: 10 more backlinks (Total: 30)
+
+---
+
+REPORTING FORMAT:
+
+After each site, reply with:
+```
+✅ [SITE-NAME]
+URL: [YOUR PROFILE/PAGE URL]
+Status: Live
+Link to: [WEBSITE-URL]
+Domain Authority: [XX]
+```
+
+After all phases:
+```
+COMPLETION REPORT:
+
+Total Backlinks Created: [XX]
+High-DA (90+): [XX]
+Medium-DA (70-89): [XX]
+Status: All live and public
+
+Top 5 Links:
+1. [Platform] - DA [XX] - [URL]
+2. [Platform] - DA [XX] - [URL]
+3. [Platform] - DA [XX] - [URL]
+4. [Platform] - DA [XX] - [URL]
+5. [Platform] - DA [XX] - [URL]
+
+Estimated Indexing: 7-14 days
+Recommended: Monitor in Google Search Console
+```
+
+---
+
+RULES FOR AI:
+
+1. ✅ Complete profile 100% (don't leave fields empty)
+2. ✅ Use real information (not spammy)
+3. ✅ Make all pages PUBLIC (not private)
+4. ✅ Write quality content (300+ words where applicable)
+5. ✅ Save all login credentials
+6. ✅ Verify links are clickable
+7. ❌ Don't spam or use exact match anchor text everywhere
+8. ❌ Don't create and abandon (keep logins for updates)
+
+---
+
+CONTENT TEMPLATES:
+
+**Short Bio (100 words):**
+[BUSINESS-NAME] is [what you do]. We help [target audience] achieve [main benefit]. Founded in [year], we've [key achievement]. Visit [WEBSITE-URL] to learn more.
+
+**Medium Article (500 words):**
+Title: [Benefit-Driven Headline]
+
+Introduction: Problem statement
+Section 1: How we solve it
+Section 2: Results/social proof
+Section 3: How it works
+Conclusion: Call to action to visit [WEBSITE-URL]
+
+**Profile Description:**
+[BUSINESS-NAME] - [One-line tagline]
+🌐 [WEBSITE-URL]
+📧 Contact: [email]
+🎯 Helping [audience] with [solution]
+
+---
+
+START NOW! Begin with Phase 1, Site #1 (Google Sites)
+
+Report back after completing each site.
+
+Goal: 30+ backlinks in 5.5 hours total
+
+===== END INSTRUCTIONS =====
+
+---
+
+FOR YOUR OTHER SITES, JUST REPLACE:
+
+For iimagined.ai:
+- WEBSITE: https://iimagined.ai
+- BUSINESS: IImagined AI Education
+- DESCRIPTION: AI automation education platform with 4,000+ students
+
+For seology.ai:
+- WEBSITE: https://seology.ai
+- BUSINESS: Seology
+- DESCRIPTION: AI-powered SEO platform delivering 385% average traffic increase
+
+For 1abel.com:
+- WEBSITE: https://1abel.com
+- BUSINESS: 1ABEL
+- DESCRIPTION: Premium minimalist clothing brand where sound becomes style
+
+For futureshive.com:
+- WEBSITE: https://futureshive.com
+- BUSINESS: Futures Hive
+- DESCRIPTION: Futures trading education with 291+ days of proven results
+
+For sirency.com:
+- WEBSITE: https://sirency.com
+- BUSINESS: SirenCY
+- DESCRIPTION: Elite creator management and monetization platform
+
+---
+
+PASTE THIS TO COMET AI AND IT WILL EXECUTE EVERYTHING!
