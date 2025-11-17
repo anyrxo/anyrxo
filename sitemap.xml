@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Homepage -->
   <url>
     <loc>https://anyrxo.com/</loc>
-    <lastmod>2025-11-14</lastmod>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -43,4 +46,69 @@
       <image:caption>Futures Hive logo - Futures trading education platform by Anyro (anyrxo) with 291+ days of proven results</image:caption>
     </image:image>
   </url>
+
+  <!-- Index HTML (Alternative Access) -->
+  <url>
+    <loc>https://anyrxo.com/index.html</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Robots.txt -->
+  <url>
+    <loc>https://anyrxo.com/robots.txt</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Humans.txt -->
+  <url>
+    <loc>https://anyrxo.com/humans.txt</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Manifest.json (PWA) -->
+  <url>
+    <loc>https://anyrxo.com/manifest.json</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Browser Config -->
+  <url>
+    <loc>https://anyrxo.com/browserconfig.xml</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Google Verification -->
+  <url>
+    <loc>https://anyrxo.com/googlebade16d6b330084c.html</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+  <!-- Bing Site Auth -->
+  <url>
+    <loc>https://anyrxo.com/BingSiteAuth.xml</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+  <!-- IndexNow API Key -->
+  <url>
+    <loc>https://anyrxo.com/43da5bf4d2624045afa865940f6eafd4.txt</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
 </urlset>
