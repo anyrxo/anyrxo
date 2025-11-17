@@ -22,7 +22,7 @@ I help entrepreneurs and creators leverage AI to **build**, **scale**, and **aut
 
 ### 🔥 Current Projects
 
-- **[Seology](https://seology.ai)** - AI-powered SEO methodology delivering 385% avg traffic increases
+- **[Seology](https://seology.ai)** - AI-powered SEO SAAS for shopify optimising stores 24/7
 - **[IImagined](https://iimagined.ai)** - AI education platform teaching the systems I used to scale to millions
 - **[1ABEL](https://1abel.com)** - Premium minimalist clothing where sound becomes style
 - **[Futures Hive](https://futureshive.com)** - Battle-tested trading strategy with 291+ days of results
